@@ -1,0 +1,14 @@
+AM : Gupta,Sayan
+BT : Muthuvijayan,Vignesh
+Aero : Mathur,Manikandan
+CH : Rengasamy,Raghunathan
+Chemistry :  Mishra,AshokKumar
+Civil : Sivanandan,Ramaswamy
+Meta : Raman,S.GaneshSundara
+CSE : Kamakoti,Veezhinathan
+ED : Balasubramanian,Venkatesh
+ee : Pavan,Shanthi
+EP : Joy,Ashwin
+math : Rama,Raghavan
+Mech : Sangras,Ravikiran
+Ocean Engg : SureshKumar,Govindarajan
